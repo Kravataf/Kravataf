@@ -1,6 +1,4 @@
-i make games, mods and other stuff related to coding
-
-idk what else to add here :Z
+idk
 <!---
 Kravataf/Kravataf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
