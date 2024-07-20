@@ -6,7 +6,7 @@
 # about me
 
 hi im kravataf.. i make games, mods, tutorials and other stuff related to coding. i currently mainly use engine called gdevelop!!
-i code in languages C++ & Javascript mainly but i also know a bit of C# and html. im not sure what else i would add here
+i code in languages C++ & Javascript mainly but i also know a bit of C#, html, css and java. im not sure what else i would add here
 <!---
 Kravataf/Kravataf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
