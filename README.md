@@ -10,7 +10,7 @@ i code in languages C++ & Javascript mainly but i also know a bit of C#, html, c
 
 # current projects
 
-im currently working on [tux3d](https://kravataf.itch.io/tux3d) open-source 3d multiplayer game built in Gdevelop using THNK Framework.. also bunch of other projects but those arent really important
+idk
 <!---
 Kravataf/Kravataf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
