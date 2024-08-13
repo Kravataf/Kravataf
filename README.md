@@ -22,6 +22,12 @@ mcreator (modding mc but im too lazy to learn java properly)
 
 notepad++ (same thing as vs code)
 
+blender
+
+blockbench (blender but for mc mods)
+
+THNK Framework (*unofficial gdevelop multiplayer.. better than the native one)
+
 <!---
 Kravataf/Kravataf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
