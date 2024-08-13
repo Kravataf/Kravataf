@@ -10,7 +10,7 @@ i code in languages C++ & Javascript mainly but i also know a bit of C#, html, c
 
 # current projects
 
-GDXR (open-source gdevelop framework for VR.. its extremely early into development and doesnt properly work yet)
+[GDXR](https://github.com/Kravataf/GDXR) (open-source gdevelop framework for VR.. its extremely early into development and doesnt properly work yet)
 
 # software & tools i like
 
