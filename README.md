@@ -10,7 +10,18 @@ i code in languages C++ & Javascript mainly but i also know a bit of C#, html, c
 
 # current projects
 
-idk
+GDXR (open-source gdevelop framework for VR.. its extremely early into development and doesnt properly work yet)
+
+# software & tools i like
+
+gdevelop (low/no-code, open-source 2d + 3d engine)
+
+visual studio code
+
+mcreator (modding mc but im too lazy to learn java properly)
+
+notepad++ (same thing as vs code)
+
 <!---
 Kravataf/Kravataf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
