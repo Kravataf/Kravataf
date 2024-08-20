@@ -20,11 +20,7 @@ visual studio code
 
 mcreator (modding mc but im too lazy to learn java properly)
 
-notepad++ (same thing as vs code)
-
-blender
-
-blockbench (blender but for mc mods)
+blockbench (blender but for mc mods or general lowpoly models)
 
 THNK Framework (*unofficial gdevelop multiplayer.. better than the native one)
 
