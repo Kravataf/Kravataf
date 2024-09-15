@@ -10,7 +10,7 @@ i code in languages C++ & Javascript mainly but i also know a bit of C#, html, c
 
 # current projects
 
-[GDXR](https://github.com/Kravataf/GDXR) (open-source gdevelop framework for VR.. its extremely early into development and doesnt properly work yet)
+cave world online (minecraft clone made in gdevelop.. also it has both multiplayer and singleplayer :p )
 
 # software & tools i like
 
@@ -22,7 +22,9 @@ mcreator (modding mc but im too lazy to learn java properly)
 
 blockbench (blender but for mc mods or general lowpoly models)
 
-THNK Framework (*unofficial gdevelop multiplayer.. better than the native one)
+THNK Framework (unofficial gdevelop multiplayer..)
+
+javascript (the best programming language)
 
 <!---
 Kravataf/Kravataf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
