@@ -22,8 +22,6 @@ mcreator (modding mc but im too lazy to learn java properly)
 
 blockbench (blender but for mc mods or general lowpoly models)
 
-THNK Framework (unofficial gdevelop multiplayer..)
-
 javascript (the best programming language)
 
 <!---
