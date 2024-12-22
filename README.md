@@ -10,19 +10,19 @@ i code in languages C++ & Javascript mainly but i also know a bit of C#, html, c
 
 # current projects
 
-cave world online (minecraft clone made in gdevelop.. also it has both multiplayer and singleplayer :p )
+Cave World Online (3D multiplayer Minecraft clone made in Gdevelop 5)
 
 # software & tools i like
 
-gdevelop (low/no-code, open-source 2d + 3d engine)
+Gdevelop 5 (low/no-code, open-source 2d + 3d engine)
 
-visual studio code
+VS code
 
-mcreator (modding mc but im too lazy to learn java properly)
+Mcreator (modding mc but im too lazy to learn java properly)
 
-blockbench (blender but for mc mods or general lowpoly models)
+Blockbench (blender but for mc mods or general lowpoly models)
 
-javascript (the best programming language)
+JS (the best programming language)
 
 <!---
 Kravataf/Kravataf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
