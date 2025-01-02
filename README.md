@@ -6,7 +6,7 @@
 # about me
 
 Hi!! Im kravataf.. I make games, mods, tutorials and other stuff related to coding. I currently mainly use engine called Gdevelop 5.
-I code mainly in Javascript but i also know a bit of C#, Java (not that im remotely good at them or anything). Im not sure what else i would add here :p
+I code mainly in Javascript but i also know a bit of C#, Java, (and i tried using C++) (not that im remotely good at them or anything). Im not sure what else i would add here :p
 
 # current projects
 
