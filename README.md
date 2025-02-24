@@ -14,15 +14,11 @@ I code mainly in Javascript but i also know a bit of C#, Java, (and i tried usin
 
 # Tools I like
 
-[Gdevelop 5](https://gdevelop.io/) (low/no-code, open-source 2d + 3d engine)
-
-[VS code](https://code.visualstudio.com/)
-
-[Mcreator](https://mcreator.net/download) (Modding Minecraft but im too lazy to learn Java properly)
-
-[Blockbench](https://www.blockbench.net/) (Blender but for Minecraft modding or just generally low-poly models)
-
-Javascript
+![gdicon60px](https://github.com/user-attachments/assets/2a0aa2fe-8ba8-4a75-848b-34c6655998c2)
+![vscodeicon60px](https://github.com/user-attachments/assets/76a97481-08af-41e9-a3f7-49fccd89f0cc)
+![mceatoricon60px](https://github.com/user-attachments/assets/9ac8d2d0-b022-480f-90bd-5274370f0615)
+![blockbenchicon60px](https://github.com/user-attachments/assets/9fede609-ba40-45bd-bb1e-6f2bcbd41b37)
+![jsicon60px](https://github.com/user-attachments/assets/ccddcacd-4e33-4475-9574-cf1d367fed08)
 
 <!---
 Kravataf/Kravataf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
