@@ -1,8 +1,8 @@
 # README.md
 
-<a href="https://discord.gg/GEprEFWh47" rel="nofollow"><img src="https://img.itch.zone/aW1nLzE2OTk2Mzc0LnBuZw==/original/w9cJEw.png" alt="ko-fi" data-canonical-src="https://img.itch.zone/aW1nLzE2OTk2Mzc0LnBuZw==/original/w9cJEw.png" style="max-width: 100%;"></a>
-<a href="https://www.youtube.com/@kravataf?sub_confirmation=1" rel="nofollow"><img src="https://img.itch.zone/aW1nLzE2OTk2NDM5LnBuZw==/original/h19h1f.png" alt="ko-fi" data-canonical-src="https://img.itch.zone/aW1nLzE2OTk2NDM5LnBuZw==/original/h19h1f.png" style="max-width: 100%;"></a>
-<a href="https://www.curseforge.com/members/kravataf/projects" rel="nofollow"><img src="https://img.itch.zone/aW1nLzE2OTk2NTExLnBuZw==/original/%2Fulwoc.png" alt="ko-fi" data-canonical-src="https://img.itch.zone/aW1nLzE2OTk2NTExLnBuZw==/original/%2Fulwoc.png" style="max-width: 100%;"></a>
+<a href="https://discord.gg/GEprEFWh47" rel="nofollow"><img src="https://img.itch.zone/aW1nLzIwMDIzMTcyLnBuZw==/original/kTP2FV.png" alt="dc" data-canonical-src="https://img.itch.zone/aW1nLzIwMDIzMTcyLnBuZw==/original/kTP2FV.png" style="max-width: 100%;"></a>
+<a href="https://www.youtube.com/@kravataf?sub_confirmation=1" rel="nofollow"><img src="https://img.itch.zone/aW1nLzIwMDIzMTc2LnBuZw==/original/OGkPGJ.png" alt="yt" data-canonical-src="https://img.itch.zone/aW1nLzIwMDIzMTc2LnBuZw==/original/OGkPGJ.png" style="max-width: 100%;"></a>
+<a href="https://www.curseforge.com/members/kravataf/projects" rel="nofollow"><img src="https://img.itch.zone/aW1nLzIwMDIzMTgxLnBuZw==/original/beDu7K.png" alt="curseforge" data-canonical-src="https://img.itch.zone/aW1nLzIwMDIzMTgxLnBuZw==/original/beDu7K.png" style="max-width: 100%;"></a>
 # About me
 
 Hi!! Im kravataf.. I make games, mods, tutorials and other stuff related to coding. I currently mainly use engine called Gdevelop 5.
