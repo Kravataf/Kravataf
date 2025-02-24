@@ -5,12 +5,12 @@
 <a href="https://www.curseforge.com/members/kravataf/projects" rel="nofollow"><img src="https://img.itch.zone/aW1nLzIwMDIzMTgxLnBuZw==/original/beDu7K.png" alt="curseforge" data-canonical-src="https://img.itch.zone/aW1nLzIwMDIzMTgxLnBuZw==/original/beDu7K.png" style="max-width: 100%;"></a>
 # About me
 
-Hi!! Im kravataf.. I make games, mods, tutorials and other stuff related to coding. I currently mainly use engine called Gdevelop 5.
-I code mainly in Javascript but i also know a bit of C#, Java, (and i tried using C++) (not that im remotely good at them or anything). Im not sure what else i would add here :p
+Hi!! Im Kravataf. I make games, mods, tutorials and other stuff related to coding. I use game-engine called Gdevelop 5,
+and code mainly in Javascript but I also tried C#, Java and C++. Im not sure what else I would add here :T
 
 # Current project
 
-[Cave World Online](https://gd.games/kravataf/caveworldonline) (3D multiplayer Minecraft clone made in Gdevelop 5)
+[Cave World Online](https://gd.games/kravataf/caveworldonline)
 
 # Tools I like
 
