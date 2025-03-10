@@ -10,7 +10,7 @@ and code mainly in Javascript but I also tried C#, Java and C++. Im not sure wha
 
 # Current project
 
-[Cave World Online](https://gd.games/kravataf/caveworldonline)
+[Cave World Online](https://gd.games/kravataf/caveworldonline), a 3D procedurally generated survival game inspired by Minecraft, Vintage Story, Tough as Nails, RLCraft & others.
 
 # Tools I like
 
