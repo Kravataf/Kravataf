@@ -1,8 +1,11 @@
-# README.md
+<p align="center" dir="auto">
+  <a href="https://github.com/Kravataf">
+    <a href="https://discord.gg/GEprEFWh47" rel="nofollow"><img src="https://img.shields.io/badge/Discord-5865f2" alt="Discord" data-canonical-src="https://img.itch.zone/aW1nLzIwMDIzMTcyLnBuZw==/original/kTP2FV.png" style="max-width: 100%;"></a>
+<a href="https://www.youtube.com/@kravataf?sub_confirmation=1" rel="nofollow"><img src="https://img.shields.io/badge/YouTube-f61c0d" alt="Youtube" data-canonical-src="https://img.itch.zone/aW1nLzIwMDIzMTc2LnBuZw==/original/OGkPGJ.png" style="max-width: 100%;"></a>
+<a href="https://www.curseforge.com/members/kravataf/projects" rel="nofollow"><img src="https://img.shields.io/badge/Curseforge-000000" alt="Curseforge" data-canonical-src="https://img.itch.zone/aW1nLzIwMDIzMTgxLnBuZw==/original/beDu7K.png" style="max-width: 100%;"></a>
+  </a>
+</p>
 
-<a href="https://discord.gg/GEprEFWh47" rel="nofollow"><img src="https://img.itch.zone/aW1nLzIwMDIzMTcyLnBuZw==/original/kTP2FV.png" alt="dc" data-canonical-src="https://img.itch.zone/aW1nLzIwMDIzMTcyLnBuZw==/original/kTP2FV.png" style="max-width: 100%;"></a>
-<a href="https://www.youtube.com/@kravataf?sub_confirmation=1" rel="nofollow"><img src="https://img.itch.zone/aW1nLzIwMDIzMTc2LnBuZw==/original/OGkPGJ.png" alt="yt" data-canonical-src="https://img.itch.zone/aW1nLzIwMDIzMTc2LnBuZw==/original/OGkPGJ.png" style="max-width: 100%;"></a>
-<a href="https://www.curseforge.com/members/kravataf/projects" rel="nofollow"><img src="https://img.itch.zone/aW1nLzIwMDIzMTgxLnBuZw==/original/beDu7K.png" alt="curseforge" data-canonical-src="https://img.itch.zone/aW1nLzIwMDIzMTgxLnBuZw==/original/beDu7K.png" style="max-width: 100%;"></a>
 # About me
 
 Hi!! Im Kravataf. I make games, mods, tutorials and other stuff related to coding. I mainly use engine called Gdevelop 5.4 and code in Javascript!
