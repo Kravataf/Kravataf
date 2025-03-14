@@ -5,8 +5,7 @@
 <a href="https://www.curseforge.com/members/kravataf/projects" rel="nofollow"><img src="https://img.itch.zone/aW1nLzIwMDIzMTgxLnBuZw==/original/beDu7K.png" alt="curseforge" data-canonical-src="https://img.itch.zone/aW1nLzIwMDIzMTgxLnBuZw==/original/beDu7K.png" style="max-width: 100%;"></a>
 # About me
 
-Hi!! Im Kravataf. I make games, mods, tutorials and other stuff related to coding. I use game-engine called Gdevelop 5,
-and code mainly in Javascript but I also tried C#, Java and C++. Im not sure what else I would add here :T
+Hi!! Im Kravataf. I make games, mods, tutorials and other stuff related to coding. I mainly use engine called Gdevelop 5.4 and code in Javascript!
 
 # Current project
 
@@ -20,6 +19,11 @@ and code mainly in Javascript but I also tried C#, Java and C++. Im not sure wha
 ![blockbenchicon60px](https://github.com/user-attachments/assets/9fede609-ba40-45bd-bb1e-6f2bcbd41b37)
 ![jsicon60px](https://github.com/user-attachments/assets/ccddcacd-4e33-4475-9574-cf1d367fed08)
 
+<p align="center" dir="auto">
+  <a href="https://github.com/Kravataf">
+    <img src="https://camo.githubusercontent.com/dc94d2b93c390ef196a505d51a6cb99c644d18be21a05c27efdcb385afcb5f55/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d785465726f726f26636f6c6f723d626c7565267374796c653d666c617429" data-canonical-src="https://komarev.com/ghpvc/?username=Kravataf&amp;color=blue&amp;style=flat)" style="max-width: 100%;">
+  </a>
+</p>
 <!---
 Kravataf/Kravataf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
