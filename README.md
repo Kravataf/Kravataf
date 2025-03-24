@@ -8,7 +8,7 @@
 
 # <p align="center" dir="auto">(っ◔◡◔)っ About me!!</p>
 
-<p align="center" dir="auto">Hi! Im Kravataf. I make games, mods, tutorials and other stuff related to coding. I mainly use engine called Gdevelop 5.4 and code in Javascript!</p>
+<p align="center" dir="auto">Hi! Im Kravataf. I make games, mods, tutorials and other stuff related to coding. I mainly use engine called Gdevelop 5.5 and code in Javascript!</p>
 
 # <p align="center" dir="auto">Current project(s)</p>
 
