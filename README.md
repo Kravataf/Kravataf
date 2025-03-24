@@ -6,15 +6,15 @@
   </a>
 </p>
 
-# About me
+# <p align="center" dir="auto">(っ◔◡◔)っ About me!!</p>
 
-Hi!! Im Kravataf. I make games, mods, tutorials and other stuff related to coding. I mainly use engine called Gdevelop 5.4 and code in Javascript!
+<p align="center" dir="auto">Hi! Im Kravataf. I make games, mods, tutorials and other stuff related to coding. I mainly use engine called Gdevelop 5.4 and code in Javascript!</p>
 
-# Current project
+# <p align="center" dir="auto">Current project(s)</p>
 
 [Cave World Online](https://gd.games/kravataf/caveworldonline), a 3D procedurally generated survival game inspired by Minecraft, Vintage Story, Tough as Nails, RLCraft & others.
 
-# Tools I like
+# <p align="center" dir="auto">Tools & Software I like</p>
 
 ![gdicon60px](https://github.com/user-attachments/assets/2a0aa2fe-8ba8-4a75-848b-34c6655998c2)
 ![vscodeicon60px](https://github.com/user-attachments/assets/76a97481-08af-41e9-a3f7-49fccd89f0cc)
