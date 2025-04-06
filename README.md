@@ -13,6 +13,7 @@
 # <p align="center" dir="auto">Current project(s)</p>
 
 [Cave World Online](https://gd.games/kravataf/caveworldonline), a 3D procedurally generated survival game inspired by Minecraft, Vintage Story, Tough as Nails, RLCraft & others.
+[GDAddon](https://github.com/Kravataf/GDA), extension for loading & deleting "addons" in Gdevelop 5.5
 
 # <p align="center" dir="auto">Tools & Software I like</p>
 
