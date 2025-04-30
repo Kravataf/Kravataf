@@ -6,22 +6,14 @@
   </a>
 </p>
 
-# <p align="center" dir="auto">(っ◔◡◔)っ About me!!</p>
+## <p align="center" dir="auto">(っ◔◡◔)っ About me!!</p>
+I like coding stuff (mostly browser games), but also mods, extensions, etc.
 
-<p align="center" dir="auto">Hi! Im Kravataf. I make games, mods, tutorials and other stuff related to coding. I mainly use engine called Gdevelop 5.5 and code in Javascript!</p>
+<div align="center" dir="auto">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kravataf&theme=dark" alt="Kravataf's GitHub stats" />
+</div>
 
-# <p align="center" dir="auto">Current project(s)</p>
 
-[Cave World Online](https://gd.games/kravataf/caveworldonline), a 3D procedurally generated survival game inspired by Minecraft, Vintage Story, Tough as Nails, RLCraft & others.
-[GDAddon](https://github.com/Kravataf/GDA), extension for loading & deleting "addons" in Gdevelop 5.5
-
-# <p align="center" dir="auto">Tools & Software I like</p>
-
-![gdicon60px](https://github.com/user-attachments/assets/2a0aa2fe-8ba8-4a75-848b-34c6655998c2)
-![vscodeicon60px](https://github.com/user-attachments/assets/76a97481-08af-41e9-a3f7-49fccd89f0cc)
-![mceatoricon60px](https://github.com/user-attachments/assets/9ac8d2d0-b022-480f-90bd-5274370f0615)
-![blockbenchicon60px](https://github.com/user-attachments/assets/9fede609-ba40-45bd-bb1e-6f2bcbd41b37)
-![jsicon60px](https://github.com/user-attachments/assets/ccddcacd-4e33-4475-9574-cf1d367fed08)
 
 <p align="center" dir="auto">
   <a href="https://github.com/Kravataf">
