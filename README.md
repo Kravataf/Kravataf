@@ -13,9 +13,8 @@ My main project(s) are currently Cave World, killmeOS, DnF & ScriptScript
 
 <div align="center" dir="auto">
     <img src="https://github-readme-stats.vercel.app/api?username=Kravataf&theme=dark" alt="Kravataf's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark" alt="Kravataf's GitHub stats" />
 </div>
-
-
 
 <p align="center" dir="auto">
   <a href="https://github.com/Kravataf">
