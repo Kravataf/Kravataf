@@ -7,9 +7,9 @@
 </p>
 
 ## <p align="center" dir="auto">(っ◔◡◔)っ About me!!</p>
-I like coding stuff (mostly browser games), but also mods, extensions, etc.
+I like coding stuff (mostly web-dev related things)
 
-My main project(s) are currently Cave World, killmeOS, DnF & ScriptScript
+My current main project(s) are: Cave World, killmeOS
 
 <div align="center" dir="auto">
     <img src="https://github-readme-stats.vercel.app/api?username=Kravataf&theme=dark" alt="Kravataf's GitHub stats" />
