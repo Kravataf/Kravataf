@@ -9,7 +9,7 @@
 ## <p align="center" dir="auto">(っ◔◡◔)っ About me!!</p>
 I like coding stuff (mostly web-dev related things)
 
-My current main project(s) are: Cave World, FurOS
+My current main project(s) are: Afterwild, FurOS
 
 <div align="center" dir="auto">
     <img src="https://github-readme-stats.vercel.app/api?username=Kravataf&theme=dark" alt="Kravataf's GitHub stats" />
