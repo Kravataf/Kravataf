@@ -6,7 +6,7 @@
   </a>
 </p>
 
-## <p align="center" dir="auto">(っ◔◡◔)っ About me!!</p>
+## <p align="center" dir="auto">(っ◔◡◔)っ</p>
 I like coding stuff (mostly web-dev related things)
 
 My current main project(s) are: Afterwild, FurOS
