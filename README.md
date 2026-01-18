@@ -6,10 +6,8 @@
   </a>
 </p>
 
-## <p align="center" dir="auto">(っ◔◡◔)っ</p>
-I like coding stuff (mostly web-dev related things)
-
-My current main project(s) are: Afterwild, FurOS
+## <p align="center" dir="auto">.</p>
+Im working on Afterwild, FurOS, RePI and other stuff
 
 <div align="center" dir="auto">
     <img src="https://github-readme-stats.vercel.app/api?username=Kravataf&theme=dark" alt="Kravataf's GitHub stats" />
