@@ -9,9 +9,9 @@
 ## <p align="center" dir="auto">mhphm</p>
 
 My (current) projects:
-  - Afterwild: Multiplayer voxel game
-  - FurOS64: Very basic "OS" made from scratch
-  - RePI: MCJE 1.12.2 mod
+  - [Afterwild](https://kravataf.itch.io/afterwild): Multiplayer voxel game
+  - [FurOS64](https://github.com/ivinexo1/FurOS64): Very basic "OS" made from scratch
+  - [RePI](https://www.curseforge.com/minecraft/mc-mods/re-parasite-infection): MCJE 1.12.2 mod
 
 <div align="center" dir="auto">
   <img src="https://github-stats-extended.vercel.app/api?username=Kravataf&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=bear" alt="GitHub Stats"></img>
