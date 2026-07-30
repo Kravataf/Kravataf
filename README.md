@@ -6,20 +6,10 @@
   </a>
 </p>
 
-## <p align="center" dir="auto">.</p>
-Im working on Afterwild, FurOS, RePI and other stuff
+## <p align="center" dir="auto">mhphm</p>
+Im working on Afterwild, FurOS64, RePI and more...
 
 <div align="center" dir="auto">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kravataf&theme=dark" alt="Kravataf's GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark" alt="Kravataf's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Kravataf&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=bear" alt="GitHub Stats"></img>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Kravataf&langs_count=4&theme=bear" alt="GitHub Stats"></img>
 </div>
-
-<p align="center" dir="auto">
-  <a href="https://github.com/Kravataf">
-    <img src="https://camo.githubusercontent.com/dc94d2b93c390ef196a505d51a6cb99c644d18be21a05c27efdcb385afcb5f55/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d785465726f726f26636f6c6f723d626c7565267374796c653d666c617429" data-canonical-src="https://komarev.com/ghpvc/?username=Kravataf&amp;color=blue&amp;style=flat)" style="max-width: 100%;">
-  </a>
-</p>
-<!---
-Kravataf/Kravataf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
