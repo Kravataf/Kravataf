@@ -7,7 +7,11 @@
 </p>
 
 ## <p align="center" dir="auto">mhphm</p>
-Im working on Afterwild, FurOS64, RePI and more...
+
+My (current) projects:
+  - Afterwild: Multiplayer voxel game
+  - FurOS64: Very basic "OS" made from scratch
+  - RePI: MCJE 1.12.2 mod
 
 <div align="center" dir="auto">
   <img src="https://github-stats-extended.vercel.app/api?username=Kravataf&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=bear" alt="GitHub Stats"></img>
