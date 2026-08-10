@@ -6,7 +6,8 @@
   </a>
 </p>
 
-## <p align="center" dir="auto">mhphm</p>
+<div align="center" dir="auto"><img width="400" height="304" alt="kozi" src="https://github.com/user-attachments/assets/b001cf30-b0c1-49b5-869b-9414f9a45e5c" /></div>
+
 
 My (current) projects:
   - [Afterwild](https://kravataf.itch.io/afterwild): Multiplayer voxel game
