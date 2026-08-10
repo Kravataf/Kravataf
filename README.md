@@ -6,7 +6,8 @@
   </a>
 </p>
 
-<div align="center" dir="auto"><img width="400" height="304" alt="kozi" src="https://github.com/user-attachments/assets/b001cf30-b0c1-49b5-869b-9414f9a45e5c" /></div>
+<div align="center" dir="auto"><img width="700" height="300" alt="kozi2" src="https://github.com/user-attachments/assets/69783011-0358-4a3e-b005-ac7d6d4b0de7" />
+</div>
 
 
 My (current) projects:
