@@ -6,10 +6,6 @@
   </a>
 </p>
 
-<div align="center" dir="auto"><img width="700" height="300" alt="kozi2" src="https://github.com/user-attachments/assets/69783011-0358-4a3e-b005-ac7d6d4b0de7" />
-</div>
-
-
 My (current) projects:
   - [Afterwild](https://kravataf.itch.io/afterwild): Multiplayer voxel game
   - [FurOS64](https://github.com/ivinexo1/FurOS64): Very basic "OS" made from scratch
