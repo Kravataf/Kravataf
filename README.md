@@ -7,9 +7,9 @@
 </p>
 
 My (current) projects:
-  - [Afterwild](https://kravataf.itch.io/afterwild): Multiplayer voxel game
-  - [FurOS64](https://github.com/ivinexo1/FurOS64): Very basic "OS" made from scratch
-  - [RePI](https://www.curseforge.com/minecraft/mc-mods/re-parasite-infection): MCJE 1.12.2 mod
+  - [Afterwild](https://kravataf.itch.io/afterwild): Web-based multiplayer voxel game
+  - [FurOS64](https://github.com/ivinexo1/FurOS64): Hobby "OS" made from scratch
+  - [Re: Parasite Infection](https://www.curseforge.com/minecraft/mc-mods/re-parasite-infection): Infection mod for 1.12.2 MC Java Forge
 
 <div align="center" dir="auto">
   <img src="https://github-stats-extended.vercel.app/api?username=Kravataf&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=bear" alt="GitHub Stats"></img>
