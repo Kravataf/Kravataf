@@ -1,15 +1,11 @@
-<p align="center" dir="auto">
-  <a href="https://github.com/Kravataf">
-    <a href="https://discord.gg/GEprEFWh47" rel="nofollow"><img src="https://img.shields.io/badge/Discord-5865f2" alt="Discord" data-canonical-src="https://img.itch.zone/aW1nLzIwMDIzMTcyLnBuZw==/original/kTP2FV.png" style="max-width: 100%;"></a>
-<a href="https://www.youtube.com/@kravataf?sub_confirmation=1" rel="nofollow"><img src="https://img.shields.io/badge/YouTube-f61c0d" alt="Youtube" data-canonical-src="https://img.itch.zone/aW1nLzIwMDIzMTc2LnBuZw==/original/OGkPGJ.png" style="max-width: 100%;"></a>
-<a href="https://www.curseforge.com/members/kravataf/projects" rel="nofollow"><img src="https://img.shields.io/badge/Curseforge-000000" alt="Curseforge" data-canonical-src="https://img.itch.zone/aW1nLzIwMDIzMTgxLnBuZw==/original/beDu7K.png" style="max-width: 100%;"></a>
-  </a>
-</p>
+# 😛
 
 My (current) projects:
   - [Afterwild](https://kravataf.itch.io/afterwild): Web-based multiplayer voxel game
-  - [FurOS64](https://github.com/ivinexo1/FurOS64): Hobby "OS" made from scratch
-  - [Re: Parasite Infection](https://www.curseforge.com/minecraft/mc-mods/re-parasite-infection): Infection mod for 1.12.2 MC Java Forge
+  - [FurOS/FurOS64](https://github.com/ivinexo1/FurOS64): Hobby "OS" made from scratch
+  - [Re: Parasite Infection](https://www.curseforge.com/minecraft/mc-mods/re-parasite-infection): 1.12.2 Minecraft mod
+
+<img src="https://skillicons.dev/icons?i=c,cs,js,html,css&theme=dark" />
 
 <div align="center" dir="auto">
   <img src="https://github-stats-extended.vercel.app/api?username=Kravataf&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=bear" alt="GitHub Stats"></img>
