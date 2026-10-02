@@ -1,5 +1,10 @@
 # <p align="center" dir="auto">😛</p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,js,java&theme=dark" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
