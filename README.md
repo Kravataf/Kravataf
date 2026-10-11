@@ -1,7 +1,7 @@
-# <p align="center" dir="auto">@kravataf</p>
+# <p align="center" dir="auto">I like to make games (and other stuff)</p>
 
 <p align="center">
-Afterwild, Re: Parasite Infection, FurOS64, ...
+Afterwild, Re: Parasite Infection, Respirator, FurOS64, ...
 </p>
 
 <p align="center">
